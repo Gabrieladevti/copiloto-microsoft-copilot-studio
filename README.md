@@ -39,9 +39,3 @@ Escolha o modelo de Viagens ou "Safe Travels"
 ##
 
 ![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
-
-Projeto desenvolvido durante o [**Bootcamp Suzano - Python Developer**](https://www.dio.me/bootcamp/suzano-python-developer), fornecido pela [**DIO**](https://www.dio.me/)
-
-##
-
-- [By Páucinha](https://github.com/Paucinha)
