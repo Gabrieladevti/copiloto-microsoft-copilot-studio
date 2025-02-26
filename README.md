@@ -30,12 +30,3 @@ Escolha o modelo de Viagens ou "Safe Travels"
 * Criar um Copilot em branco
 
 ![alt text](https://github.com/Paucinha/copiloto-microsoft-copilot-studio/blob/master/Copilot%20em%20branco.png)
-
-## Links Importantes
-
-* [**Documentação do Microsoft Copilot Studio**](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
-* [**Template Safe Travels**](https://learn.microsoft.com/en-us/microsoft-copilot-studio/template-safe-travels)
-
-##
-
-![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
