@@ -1,13 +1,5 @@
 # Criando seu primeiro Copiloto no Microsoft Copilot Studio
 
-![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
-
-Aprenda a criar um copiloto no Microsoft Copilot Studio, abordando a configuração de fluxos de conversa, integração com serviços externos e personalização de respostas. Ao final, você terá um assistente funcional capaz de interagir de forma inteligente e automatizar tarefas. 😉
-
-**Microsoft Copilot Studio | Inteligência Artificial (IA)**
-
-**Full-Stack | Básico**
-
 ## Apresentação do Desafio
 
 O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Studio.
